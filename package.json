@@ -1,0 +1,17 @@
+{
+  "name": "banco-digital-api-rest",
+  "version": "1.0.0",
+  "description": "Desafio de Lógica - Módulo 2 - Back-end Cubos Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lara Braz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
