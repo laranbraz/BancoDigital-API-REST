@@ -34,6 +34,9 @@ De inicio, foi realizada a criação de um arquivo index.js. Posteriormente util
 
    A API estará disponível em http://localhost:3000.
 
+## Fotos do projeto no VSCODE
+![Captura de tela 2023-10-05 100612](https://github.com/laranbraz/BancoDigital-API-REST/assets/141438738/8622476b-f9b9-4c63-b556-7b21c3de556b)
+
 ## Desenvolvedora
 Lara Braz
 
