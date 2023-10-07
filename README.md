@@ -36,6 +36,9 @@ De inicio, foi realizada a criação de um arquivo index.js. Posteriormente util
 
 ## Fotos do projeto no VSCODE
 ![Captura de tela 2023-10-05 100612](https://github.com/laranbraz/BancoDigital-API-REST/assets/141438738/8622476b-f9b9-4c63-b556-7b21c3de556b)
+![Captura de tela 2023-10-05 100640](https://github.com/laranbraz/BancoDigital-API-REST/assets/141438738/c9190915-6769-4957-9db9-0387fc4640a7)
+![Captura de tela 2023-10-05 100718](https://github.com/laranbraz/BancoDigital-API-REST/assets/141438738/a0615c14-c0c2-4268-88e7-74b1f9112bcd)
+![Captura de tela 2023-10-05 100734](https://github.com/laranbraz/BancoDigital-API-REST/assets/141438738/b4be883c-4bc6-4de3-a3b7-74360b112d75)
 
 ## Desenvolvedora
 Lara Braz
